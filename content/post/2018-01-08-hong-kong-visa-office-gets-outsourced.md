@@ -9,10 +9,10 @@ description: The China Visa is Outsourced Now - Read On....
 ---
 According to the official Hong Kong China visa office in Wanchai they close to the public and outsource! business:
 
-<a href="http://www.fmcoprc.gov.hk/eng/vtc/t1523852.htm" target="_blank" rel="noopener">http://www.fmcoprc.gov.hk</a>
+[http://www.fmcoprc.gov.hk](http://www.fmcoprc.gov.hk/eng/vtc/t1523852.htm)
 
-From now on the official visa please ist <a href="http://www.visaforchina.org" target="_blank" rel="noopener">http://www.visaforchina.org</a> landing site, or <a href="http://bio.visaforchina.org/HKG2_EN/" target="_blank" rel="noopener">http://bio.visaforchina.org/HKG2_EN/</a> for Hong Kong.
+From now on the official visa place is [http://www.visaforchina.org](http://www.visaforchina.org) landing site, or [http://bio.visaforchina.org/HKG2_EN](http://bio.visaforchina.org/HKG2_EN) for Hong Kong.
 
 Another option are travel agents, here is one that is also used by many to buy China visas:
 
-<a href="http://www.fbt-chinavisa.com.hk/services.html" target="_blank" rel="noopener">http://www.fbt-chinavisa.com.hk/services.html</a>
+[http://www.fbt-chinavisa.com.hk/services.html](http://www.fbt-chinavisa.com.hk/services.html)
