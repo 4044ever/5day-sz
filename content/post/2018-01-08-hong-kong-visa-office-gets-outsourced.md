@@ -7,6 +7,7 @@ url: /hong-kong-visa-office-gets-outsourced/
 tags: ["visa in hong kong"]
 description: The China Visa is Outsourced Now - Read On....
 ---
+
 According to the official Hong Kong China visa office in Wanchai they close to the public and outsource! business:
 
 
